@@ -1,0 +1,10 @@
+build/
+out/
+workspace/
+.idea
+/crash-reports
+/logs
+/saves
+usercache.json
+usercache.json
+/relake
